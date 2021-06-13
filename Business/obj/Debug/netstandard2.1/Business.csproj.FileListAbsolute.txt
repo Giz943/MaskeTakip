@@ -1,0 +1,1 @@
+/Users/gizemcinar/Projects/MaskeTakip/Business/obj/Debug/netstandard2.1/Business.csprojAssemblyReference.cache
